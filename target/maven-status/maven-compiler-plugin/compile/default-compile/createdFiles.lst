@@ -1,0 +1,6 @@
+com\hackerrank\eshopping\product\dashboard\service\impl\ProductsServiceImpl.class
+com\hackerrank\eshopping\product\dashboard\service\ProductsService.class
+com\hackerrank\eshopping\product\dashboard\Application.class
+com\hackerrank\eshopping\product\dashboard\repository\ProductsRepository.class
+com\hackerrank\eshopping\product\dashboard\controller\ProductsController.class
+com\hackerrank\eshopping\product\dashboard\model\Product.class
